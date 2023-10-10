@@ -9,4 +9,4 @@
 
 [Самостоятельная работа 3](/Самостоятельная_работа_3_pandas.ipynb).
 
-[Практическая работа 1](/Exercise1_Gadilshina_VE.ipynb).
+[Практическая работа 1](/Exercise_1_Gadilshina_VE.ipynb).
